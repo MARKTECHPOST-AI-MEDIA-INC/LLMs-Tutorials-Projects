@@ -2,6 +2,8 @@
 List of Language Model LLMs Projects with Full Implementation codes
 
 
+▶ Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Evaluation/Langfuse_Observability_Evaluation_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/http://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Evaluation/Langfuse_Observability_Evaluation_Tutorial_Marktechpost.ipynb)
+
 ▶ A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/llm_compressor_quantization_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/05/17/a-coding-implementation-to-compress-and-benchmark-instruction-tuned-llms-with-fp8-gptq-and-smoothquant-quantization-using-llmcompressor/)
 
 ▶ How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/AI%20Agents%20Codes/kg_gen_knowledge_graph_generation_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/)
