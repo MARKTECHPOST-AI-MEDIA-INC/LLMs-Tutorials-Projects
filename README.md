@@ -2,6 +2,8 @@
 List of Language Model LLMs Projects with Full Implementation codes
 
 
+▶ How to Fine-Tune LFM2 Using QLoRA and DPO: A Complete Step-by-Step Coding Tutorial on Google Colab [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/liquid_ai_lfm2_qlora_sft_dpo_finetuning_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/06/02/how-to-fine-tune-lfm2-using-qlora-and-dpo-a-complete-step-by-step-coding-tutorial-on-google-colab/)
+
 ▶ Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Evaluation/Langfuse_Observability_Evaluation_Tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Evaluation/Langfuse_Observability_Evaluation_Tutorial_Marktechpost.ipynb)
 
 ▶ A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/llm_compressor_quantization_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/05/17/a-coding-implementation-to-compress-and-benchmark-instruction-tuned-llms-with-fp8-gptq-and-smoothquant-quantization-using-llmcompressor/)
