@@ -2,6 +2,8 @@
 List of Language Model LLMs Projects with Full Implementation codes
 
 
+▶ Training Gemma-3 for Structured Mathematical Reasoning with Tunix GRPO, LoRA Adapters, and GSM8K Rewards [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/tunix_grpo_gemma3_gsm8k_reasoning_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/07/05/training-gemma-3-for-structured-mathematical-reasoning-with-tunix-grpo-lora-adapters-and-gsm8k-rewards/)
+
 ▶ GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/glm_5_2_api_workflow_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/)
 
 ▶ Salesforce CodeGen Tutorial: Generate, Validate, and Rerank Python Functions With Unit Tests and Safety Checks [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/salesforce_codegen_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/)
