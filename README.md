@@ -2,6 +2,8 @@
 List of Language Model LLMs Projects with Full Implementation codes
 
 
+▶ The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/nemo_guardrails_advanced_safety_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/)
+
 ▶ Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/HH_RLHF_Preference_Audit_and_DPO_Fine_Tuning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/)
 
 ▶ Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/MiniMax_H3_Advanced_Multimodal_Video_Audio_Generation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis/)
