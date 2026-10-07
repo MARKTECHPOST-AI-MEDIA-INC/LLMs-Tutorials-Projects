@@ -2,6 +2,8 @@
 List of Language Model LLMs Projects with Full Implementation codes
 
 
+▶ A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/laya_zero_shot_typed_decisions_calibration_abstention_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/)
+
 ▶ The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/nemo_guardrails_advanced_safety_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/)
 
 ▶ Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/HH_RLHF_Preference_Audit_and_DPO_Fine_Tuning_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/)
